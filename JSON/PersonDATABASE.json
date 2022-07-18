@@ -1,0 +1,41 @@
+{
+    "Jeff": [
+        {
+            "Gender": "Male",
+            "Access": "USER",
+            "Assistant": null
+        }
+    ],
+
+    "Maria": [
+        {
+            "Gender": "Female",
+            "Access": "USER",
+            "Assistant": null
+        }
+    ],
+
+    "Evan": [
+        {
+            "Gender": "Male",
+            "Access": "ADMIN",
+            "Assistant": null
+        }
+    ],
+
+    "Mckenna": [
+        {
+            "Gender": "Female",
+            "Access": "USER",
+            "Assistant": null
+        }
+    ],
+
+    "Claire": [
+        {
+            "Gender": "Female",
+            "Access": "USER",
+            "Assistant": null
+        }
+    ]
+}
